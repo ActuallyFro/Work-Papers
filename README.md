@@ -1,9 +1,12 @@
-= Work Whitepapers
+Work Whitepapers
+================
 
 The following are collections of my work to date.
 
 I haven't decided if I'm laughing AT or WITH "old me"... ;')
 
+List of Papers
+--------------
 * 01_AFRL
   * Multicore Architectures for Multiple Independent Levels of Security Applications (2012)
     * [Multicore Hardware Hackz!](./01_AFRL/ADA566088_DTIC_MIPS.pdf)
